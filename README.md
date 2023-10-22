@@ -39,8 +39,6 @@
 <p align="center">
   <a href="https://linktr.ee/gulbiarchive"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=Linktree&logoColor=white&link="https://linktr.ee/gulbiarchive"/></a>&nbsp
     <a href="mailto:gulbiarchive@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gulbiarchive@gmail.com"/></a>
-    <br>
-  <a href="https://m.blog.naver.com/qkrdydslr412"><img src="https://img.shields.io/badge/DailyBlog-03C75A?style=flat-square&logo=Naver&logoColor=white&link="https://m.blog.naver.com/qkrdydslr41"/></a>&nbsp
   <a href="https://gulbiarchive.tistory.com/m/"><img src="https://img.shields.io/badge/TechBlog-000000?style=flat-square&logo=Tistory&logoColor=white&link="https://gulbiarchive.tistory.com/m/"/></a>&nbsp
   <br>
   <a href="https://www.instagram.com/gulbiarchive/?igshid=YmMyMTA2M2Y%3D"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/gulbiarchive/?igshid=YmMyMTA2M2Y%3D"/></a>&nbsp
