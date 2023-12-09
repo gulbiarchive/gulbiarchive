@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="header" src = "https://capsule-render.vercel.app/api?type=waving&color=0:ED145B,100:7F2B7B&height=250&section=header&text=GulbiI&fontSize=90&fontColor=FFFFFF" />
+<img alt="header" src = "https://capsule-render.vercel.app/api?type=waving&color=0:415CE1,100:7A41E0&height=250&section=header&text=GulbiI&fontSize=90&fontColor=FFFFFF" />
 </div>
   
   <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -46,5 +46,5 @@
 </p>
 
 <div align="center">
-<img alt="footer" src = "https://capsule-render.vercel.app/api?type=waving&color=0:ED145B,100:7F2B7B&height=250&section=footer" />
+<img alt="footer" src = "https://capsule-render.vercel.app/api?type=waving&color=0:415CE1,100:3520E1&height=250&section=footer" />
 </div>
