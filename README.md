@@ -14,7 +14,7 @@
 </p>
 
 <br>
-<p align="center"> <b> Tools </b> </p>
+<p align="center"> <b> IDE </b> </p>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>&nbsp
