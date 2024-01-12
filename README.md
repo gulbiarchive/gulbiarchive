@@ -4,7 +4,7 @@
   
   <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-  <p align="center"> <b> Languages </b> </p>
+  <p align="center"> <b> Basic Languages </b> </p>
 
  
 <p align="center">  
