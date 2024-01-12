@@ -1,50 +1,19 @@
-<div align="center">
-<img alt="header" src = "https://capsule-render.vercel.app/api?type=waving&color=0:415CE1,100:7A41E0&height=250&section=header&text=GulbiI&fontSize=90&fontColor=FFFFFF" />
-</div>
-  
-  <h3 align="center">🛠 Tech Stack 🛠</h3>
+### Hello, I'm Jihyeon.
 
-  <p align="center"> <b> Basic Languages </b> </p>
+I'm an IT instructor and back-end developer on various projects.
+<br>Additionally, I'm personally studying front-end.</br>
 
- 
-<p align="center">  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
-</p>
+### Career
 
-<br>
-<p align="center"> <b> IDE </b> </p>
+- [Toss](https://toss.im/) `2024.01 ~ ing`
+- [KG Eduone IT BANK](https://it-kgedu1.kr/?gad_source=1&gclid=Cj0KCQiAwP6sBhDAARIsAPfK_wYnaHORbfDWHacFG6B-mlXbUVJur3juzD4j69BPIdyx1dqeTly2u3saAqUvEALw_wcB) `2023. 07 ~ 2024.01`
+- [Naver Cloud](https://www.ncloud.com/) `2023. 02 ~ 2023.05`
+- [Kaon Media](http://www.kaonmedia.co.kr/) `2022.12 ~ 2023.01`
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visualstudiocode3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a>&nbsp
-</p>
+### Other Career
+- [Personal Lesson](https://quaint-parmesan-a5e.notion.site/Personal-Lesson-Review-c04e13017ccc43a3b57dccb9a3e4d4c7?pvs=4) `2023.05 ~ ing`
+- [Grepp](https://www.grepp.co/) `2022.05 ~ 2022.09`
 
-<br>
-<p align="center"> <b> Design Tools & ETC </b> </p>
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=Word&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=PowerPoint&logoColor=white"/></a>&nbsp
-</p>
-
-<br>
-<h3 align="center"> 🚀 Me 🚀 </h3>
-<p align="center">
-  <a href="https://linktr.ee/gulbiarchive"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=Linktree&logoColor=white&link="https://linktr.ee/gulbiarchive"/></a>&nbsp
-    <a href="mailto:gulbiarchive@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gulbiarchive@gmail.com"/></a>
-  <a href="https://gulbiarchive.tistory.com/m/"><img src="https://img.shields.io/badge/TechBlog-000000?style=flat-square&logo=Tistory&logoColor=white&link="https://gulbiarchive.tistory.com/m/"/></a>&nbsp
-  <br>
-  <a href="https://www.instagram.com/gulbiarchive/?igshid=YmMyMTA2M2Y%3D"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/gulbiarchive/?igshid=YmMyMTA2M2Y%3D"/></a>&nbsp
-  <a href="https://www.youtube.com/@gulbiarchive"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link="https://www.youtube.com/@gulbiarchive"/></a>
-</p>
-
-<div align="center">
-<img alt="footer" src = "https://capsule-render.vercel.app/api?type=waving&color=0:415CE1,100:3520E1&height=250&section=footer" />
-</div>
+Thank you for visiting my github profile.
+<br>Have a nice day!</br>
