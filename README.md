@@ -1,11 +1,11 @@
 ### Hello, I'm Jihyeon.
 
-I'm an IT instructor and back-end developer on various projects.
-<br>Additionally, I'm personally studying front-end.</br>
+I'm an Junior IT instructor!
+<br>Additionally, I'm personally studying Data Analysis.</br>
 
 ### Career
 
-- [Toss](https://toss.im/) `2024.01 ~ ing`
+- [Toss](https://toss.im/) `2024.01 ~ 2024.03`
 - [KG Eduone IT BANK](https://it-kgedu1.kr/?gad_source=1&gclid=Cj0KCQiAwP6sBhDAARIsAPfK_wYnaHORbfDWHacFG6B-mlXbUVJur3juzD4j69BPIdyx1dqeTly2u3saAqUvEALw_wcB) `2023. 07 ~ 2024.01`
 - [Naver Cloud](https://www.ncloud.com/) `2023. 02 ~ 2023.05`
 - [Kaon Media](http://www.kaonmedia.co.kr/) `2022.12 ~ 2023.01`
