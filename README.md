@@ -11,6 +11,7 @@
   However, I'm interested in all IT-related fields such as PM, QA, IT Instructor, and Engineer!<br/><br/>
   I enjoy playing the Piano, reading books, taking walks.<br/>
   Aside from data, I'm interested in stocks and virtual assets (coins; BTC, ETH) 😆<br/>
+  <strike>Although my nickname is gulbi, I don't like gulbi (fish).</strike><br/>
   I want to deal with all data-related areas. e.g. Deep learning, Machine learning! ✨ <br/><br/>
 </p>
 
