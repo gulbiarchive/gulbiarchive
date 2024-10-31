@@ -6,7 +6,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm interested in <b>data analysis & science</b>🚀<br/>
-  I have experience IT Instructor and QA Engineer.<br/>
+  I have experience IT Instructor and Fullstack Engineer.<br/>
   I'm continuously studying to become a <b>data analyst and data scientist.</b><br/>
   However, I'm interested in all IT-related fields such as PM, QA, IT Instructor, and Engineer!<br/><br/>
   I enjoy playing the Piano, reading books, taking walks.<br/>
