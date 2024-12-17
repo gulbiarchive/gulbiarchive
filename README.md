@@ -29,6 +29,8 @@
 <p>
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=Pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000.svg?style=flat-square&logo=Keras&logoColor=white"/>
 </p>
 
 #### Tools for Data Manipulation & Visualisation 
