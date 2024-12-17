@@ -1,6 +1,6 @@
 ### 🤞 Hello, I'm Jihyeon!
 <p>
-  <a href="https://velog.io/@gulbi/posts" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://quaint-parmesan-a5e.notion.site/Jihyeon-Park-15ff0b3f8f6d80b3af7ff3655518052f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="gulbiarchive@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gulbiarchive@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
